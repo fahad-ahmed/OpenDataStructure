@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1454210119 source:g:\programmingtutorial\opendatastructure\opendatastructure\main.cpp
+	<iostream>
+	<array.h>
+
+1454047277 source:g:\programmingtutorial\opendatastructure\opendatastructure\src\array.cpp
+	"array.h"
+
+1454210999 g:\programmingtutorial\opendatastructure\opendatastructure\include\array.h
+	<cstddef>
+	<cmath>
+	<math.h>
+	<stdio.h>
+	<iostream>
+
